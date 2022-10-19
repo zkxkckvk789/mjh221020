@@ -23,6 +23,13 @@
 하이하이하ㅣㅇ하이하이
 하영은수윤수준호예린
 pull test
+<<<<<<< HEAD
+되나? 되나? 되려나?
+=======
+
+branch : 독립된 공간에서 나만 개발하는 것
+메인브렌치 옆에 개별 개발자 브랜치를 잡는다
+>>>>>>> branch 'main' of https://github.com/zkxkckvk789/mjh221020.git
 </div>
 
 </body>

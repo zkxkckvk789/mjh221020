@@ -1,6 +1,7 @@
 package step1;
 
 public class MemberVO {
+
 	private String name;
 
 	public String getName() {
@@ -10,6 +11,5 @@ public class MemberVO {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
-	
+
 }
